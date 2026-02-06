@@ -1,0 +1,20 @@
+DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rose Day Surprise for [Girlfriend's Name]</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: linear-gradient(to bottom, #ffcccc, #ffe6e6); text-align: center; padding: 50px; }
+        h1 { color: #d63384; }
+        p { font-size: 18px; color: #333; }
+        .rose { font-size: 50px; color: red; }
+    </style>
+</head>
+<body>
+    <h1>Happy Rose Day, [meri mussu mera bachha😘]! 🌹</h1>
+    <p class="rose">🌹🌹🌹</p>
+    <p>Tumhari smile mujhe har din khush kar deti hai. Tumhari aankhein itni pyari hain ki woh mere dil ko chura leti hain. Tumhari voice sunte hi mera din ban jata hai, chahe long distance ho. Tum ho meri sabse pyari jaan, aur main tumhe har rose se jyada pyar karta hoon. Tumhari caring nature, tumhari sweetness – sab kuch perfect hai. I love you!mera bachha ❤️</p>
+    <p>Ye link sirf tumhare liye hai. Reply karna mat bhoolna! 😘</p>
+</body>
+</html>
